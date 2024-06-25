@@ -1,0 +1,30 @@
+body{
+    background-color: antiquewhite;
+}
+
+.img1{
+    height: lvw;
+    text-wrap: wrap;
+    background-image: url(./img/img1.jpg);
+    background-size: cover;
+    height :600px;
+}
+h1{
+    padding-left: 250px;
+}
+.text1{
+    height: 400px;
+    width: 500px;
+    font-size: 35px;
+    padding-top: 150px;
+    padding-left: 100px;
+
+    
+}
+a{
+    text-decoration: none;
+    color: blueviolet;
+}
+a:visited{
+    color: blue;
+}
